@@ -1,0 +1,12 @@
+body
+{
+	background-image: url("../imgs/plugg2.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1
+{
+	color: lightyellow;
+	text-align: center;
+	font-size: 70px;
+}
