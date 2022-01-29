@@ -211,6 +211,15 @@ h1{
 	height: 200px;
 	border-radius: 10px;
 }
+#madrileno{
+	position: relative;
+	bottom: 20px;
+}
 #avida_dollars{
-	top: 430px;
+	position: relative;
+	bottom: 40px;
+}
+#idolo{
+	position: relative;
+	bottom: 60px;
 }
