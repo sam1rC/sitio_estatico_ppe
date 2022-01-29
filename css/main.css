@@ -202,3 +202,10 @@ h1{
     color: lightyellow;
     font-size: 30px;
 }
+
+/*CTANGANA.HTML*/
+#ctangana_madrileno_portada{
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
+}
