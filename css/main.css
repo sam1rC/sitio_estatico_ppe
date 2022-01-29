@@ -237,9 +237,11 @@ body
 
 /*YUNGBEEF.HTML*/
 .info_album{
+	position: absolute;
 	height: 150px;
-	width: 290px;
-	text-align: center;
+	width: 600px;
+	top: 10px;
+	left: 355px;
 }
 #andromicfms_4{
 	top: 500px;
@@ -247,4 +249,8 @@ body
 }
 #El_plugg_2{
 	top: 825px;
+}
+.letra{
+	color:  white;
+	font-size: 20px;
 }
