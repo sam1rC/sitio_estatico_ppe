@@ -240,6 +240,13 @@ body
 #Kase_o_Jazz_Magnetism{
 	top: 787px;
 }
+.videos{
+	position: absolute;
+	width: 500px; 
+	height: 255px;
+	top: 15px;
+	left: 1200px;
+}
 
 /*YUNGBEEF.HTML*/
 .info_album{
