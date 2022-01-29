@@ -36,3 +36,9 @@ h1{
 	left: 80%;
 
 }
+.resize{
+	height: 400px;
+	width: 400px;
+	object-fit: cover;
+	
+}
