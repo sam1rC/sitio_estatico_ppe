@@ -44,4 +44,8 @@ h1{
 	
 }
 
-
+.kaseo_img{
+	position: relative;
+	left: 30%;
+	top: 30px;
+}
