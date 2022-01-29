@@ -17,7 +17,13 @@ h1{
 	background-attachment: fixed;
 	background-size: cover;
 }
-
+#bodyctangana{
+	background-image: url("../imgs/ctangana_fondo.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	
+	background-position: center center;
+}
 .artistas{
 	display: inline;
 	color: white;
