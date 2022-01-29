@@ -7,7 +7,7 @@ body
 	background-size: cover;
 }
 
-h1{
+#titulo_index{
 	color:  white;
 	text-align: center;
 	font-size: 45px;
@@ -182,6 +182,12 @@ h1{
     font-size: 30px;
 }
 
+.titulo{
+	color:  white;
+	font-size: 30px;
+
+}
+
 /*CTANGANA.HTML*/
 #bodyctangana{
 	background-image: url("../imgs/ctangana_fondo.jpg");
@@ -230,10 +236,14 @@ h1{
 }
 
 /*YUNGBEEF.HTML*/
-
-
+.info_album{
+	height: 150px;
+	width: 290px;
+	text-align: center;
+}
 #andromicfms_4{
 	top: 500px;
+	 
 }
 #El_plugg_2{
 	top: 825px;
