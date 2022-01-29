@@ -24,6 +24,31 @@ h1{
 	
 	background-position: center center;
 }
+.glassmorfism{
+	height: 200px;
+	width: 90%;
+	left: 45px;
+	margin-top: 2em;
+	padding: 3em;
+	position: absolute;
+	border-radius: 20px;
+	background: rgba(255, 255, 255, 0.30);
+	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+	backdrop-filter: blur(20px);	
+}
+#el_circulo_portada{
+	position: relative;
+	height: 270px;
+	width: 290px;
+	bottom: 34px;
+	border-radius: 20px;
+}
+#Remixes_y_Regalos{
+	top: 450px;
+}
+#Kase_o_Jazz_Magnetism{
+	top: 787px;
+}
 .artistas{
 	display: inline;
 	color: white;
