@@ -214,13 +214,11 @@ body
 	position: relative;
 	bottom: 60px;
 }
-
-#madrileno_text{
+.descripcion_album{
 	position: relative;
 	bottom: 220px;
 	left: 250px;
 }
-
 
 /*KASEO.HTML*/
 #bodykaseo{
