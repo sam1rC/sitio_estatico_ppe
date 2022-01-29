@@ -1,3 +1,4 @@
+
 body
 {
 	background-color: #000000;
@@ -17,13 +18,7 @@ h1{
 	background-attachment: fixed;
 	background-size: cover;
 }
-#bodyctangana{
-	background-image: url("../imgs/ctangana_fondo.jpg");
-	background-size: cover;
-	background-attachment: fixed;
-	
-	background-position: center center;
-}
+
 .glassmorfism{
 	height: 200px;
 	width: 90%;
@@ -205,8 +200,18 @@ h1{
 }
 
 /*CTANGANA.HTML*/
-#ctangana_madrileno_portada{
+#bodyctangana{
+	background-image: url("../imgs/ctangana_fondo.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	
+	background-position: center center;
+}
+.portada_albumes_ctangana{
 	width: 200px;
 	height: 200px;
 	border-radius: 10px;
+}
+#avida_dollars{
+	top: 430px;
 }
