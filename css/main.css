@@ -208,6 +208,13 @@ h1{
 	bottom: 60px;
 }
 
+#madrileno_text{
+	position: relative;
+	bottom: 220px;
+	left: 250px;
+}
+
+
 /*KASEO.HTML*/
 #bodykaseo{
 	background-image: url("../imgs/kasefondo.jfif");
