@@ -16,6 +16,7 @@ h1{
 	display: inline;
 	color: white;
 	font-size: 35px;
+
 }
 #ctangana{
 
@@ -40,7 +41,11 @@ h1{
 	height: 400px;
 	width: 400px;
 	object-fit: cover;
-	border-radius: 8px;
+	border-radius: 10px;
+	background: rgba(255,255,255,0.30);
+	box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
+	backdrop-filter: blur(4.0px);
+
 	
 }
 
@@ -49,3 +54,4 @@ h1{
 	left: 30%;
 	top: 30px;
 }
+
