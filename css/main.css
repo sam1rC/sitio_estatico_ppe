@@ -12,6 +12,12 @@ h1{
 	font-size: 45px;
 }
 
+#bodykaseo{
+	background-image: url("../imgs/kase_fondo.jpeg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
 .artistas{
 	display: inline;
 	color: white;
