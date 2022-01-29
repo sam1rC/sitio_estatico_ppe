@@ -43,6 +43,7 @@ h1{
 	left: 80%;
 
 }
+
 .resize{
 	height: 400px;
 	width: 400px;
@@ -67,3 +68,27 @@ h1{
 	position: relative;
 	left: 5%;
 }
+#ybbody
+{
+	background-image: url("../imgs/plugg2.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+#ybh1
+{
+	color: lightyellow;
+	text-align: center;
+	font-size: 70px;
+}
+.beefboy
+{
+	background-image: url("../imgs/yungbeef.png");
+	width: 500px;
+	height: 700px;
+	background-size: cover;
+	display: block;
+  	margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-color: lightyellow;
+    border-style: solid; 
