@@ -47,8 +47,16 @@ body
 	background-size: cover;
 	left: 600px;
 }
-
-
+#separador{
+	position: relative;
+	top: 250px;
+}
+#acerca_de{
+	position: absolute;
+	top: 82%;
+	font-style: italic;
+	color: white;
+}
 .glassmorfism{
 	height: 200px;
 	width: 90%;
