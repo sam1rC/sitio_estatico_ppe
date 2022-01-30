@@ -1,8 +1,7 @@
 
 body
 {
-	background-color: #000000;
-	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 800 800'%3E%3Cg %3E%3Ccircle fill='%23000000' cx='400' cy='400' r='600'/%3E%3Ccircle fill='%23400000' cx='400' cy='400' r='500'/%3E%3Ccircle fill='%23490000' cx='400' cy='400' r='400'/%3E%3Ccircle fill='%23530000' cx='400' cy='400' r='300'/%3E%3Ccircle fill='%235e0001' cx='400' cy='400' r='200'/%3E%3Ccircle fill='%236A050E' cx='400' cy='400' r='100'/%3E%3C/g%3E%3C/svg%3E");
+	background-color: #6E131D;
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -25,6 +24,9 @@ body
 	padding-bottom: 350px;
 	padding-right: 300px;
 	cursor: pointer;
+	border-radius: 10px;
+	border-style: groove;
+	border-color: white;
 }
 
 #btn_ctangana{
@@ -58,110 +60,6 @@ body
 	background: rgba(255, 255, 255, 0.30);
 	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
 	backdrop-filter: blur(20px);	
-}
-
-#ybbody
-{
-	background-image: url("../imgs/plugg2.jpg");
-	background-attachment: fixed;
-	background-size: cover;
-}
-#ybh1
-{
-	color: lightyellow;
-	text-align: center;
-	font-size: 70px;
-}
-.beefboy
-{
-	background-image: url("../imgs/yungbeef.png");
-	width: 500px;
-	height: 700px;
-	background-size: cover;
-	display: block;
-  	margin-left: auto;
-    margin-right: auto;
-    border-width: 5px;
-    border-color: lightyellow;
-    border-style: solid; 
-}
-#ybbody
-{
-	background-image: url("../imgs/plugg2.jpg");
-	background-attachment: fixed;
-	background-size: cover;
-}
-#ybh1
-{
-	color: lightyellow;
-	text-align: center;
-	font-size: 70px;
-}
-.beefboy
-{
-	background-image: url("../imgs/yungbeef.png");
-	width: 500px;
-	height: 700px;
-	background-size: cover;
-	display: block;
-  	margin-left: auto;
-    margin-right: auto;
-    border-width: 5px;
-    border-color: lightyellow;
-    border-style: solid; 
-}
-#gofoto
-{
-    margin-left: initial;
-    width: 400px;
-	height: 400px;
-}
-#androfoto
-{
-	margin-left: auto;
-	width: 400px;
-	height: 400px;
-}
-#epfoto
-{
-	margin-left: initial;
-	width: 400px;
-	height: 400px;
-}
-#pyb1
-{
-	display: block;
-    margin-left: initial;
-    width: 50%;
-    color: lightyellow;
-    font-size: 30px;
-
-}
-#pyb2
-{
-	display: block;
-    margin-left: initial;
-    width: 50%;
-    color: lightyellow;
-    font-size: 30px;
-
-}
-#pyb3
-{
-	display: block;
-    margin-left: initial;
-    width: 50%;
-    color: lightyellow;
-    font-size: 30px;
-
-}
-#pyb4
-{
-	display: block;
-    margin-left: initial;
-    width: 50%;
-    color: lightyellow;
-    font-size: 30px;
 }
 
 .titulo{
@@ -279,4 +177,29 @@ body
 	left: 1300px;
 	border-radius: 20px;
 	top:20px;
+}
+#ybbody
+{
+	background-image: url("../imgs/plugg2.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+#ybh1
+{
+	color: lightyellow;
+	text-align: center;
+	font-size: 70px;
+}
+.beefboy
+{
+	background-image: url("../imgs/yungbeef.png");
+	width: 500px;
+	height: 700px;
+	background-size: cover;
+	display: block;
+  	margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-color: lightyellow;
+    border-style: solid; 
 }
