@@ -14,7 +14,6 @@ body
 }
 
 
-
 .glassmorfism{
 	height: 200px;
 	width: 90%;
@@ -189,6 +188,12 @@ body
 }
 
 /*CTANGANA.HTML*/
+.titulo_ctangana{
+	color: rgb(94,33,41);
+	font-size: 45px;
+	position: relative;
+	left: 45px;
+}
 #bodyctangana{
 	background-image: url("../imgs/ctangana_fondo.jpg");
 	background-size: cover;
