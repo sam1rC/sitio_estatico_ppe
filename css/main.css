@@ -209,6 +209,14 @@ body
 	height: 150px;
 	width: 500px;
 }
+#spotify_ctangana{
+	height: 70px;
+	width: 200px;
+	position: absolute;
+	left: 1600px;
+	border-radius: 20px;
+	top:15px;
+}
 
 /*KASEO.HTML*/
 #bodykaseo{
@@ -237,7 +245,14 @@ body
 	top: 15px;
 	left: 1200px;
 }
-
+#spotify_kaseo{
+	height: 110px;
+	width: 310px;
+	position: absolute;
+	left: 1300px;
+	border-radius: 20px;
+	top:15px;
+}
 /*YUNGBEEF.HTML*/
 .info_album{
 	position: absolute;
@@ -256,4 +271,12 @@ body
 .letra{
 	color:  white;
 	font-size: 20px;
+}
+#spotify_yungbeef{
+	height: 150px;
+	width: 350px;
+	position: absolute;
+	left: 1300px;
+	border-radius: 20px;
+	top:20px;
 }
