@@ -13,6 +13,39 @@ body
 	font-size: 45px;
 }
 
+.botones_artistas{
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	position: relative;
+	top: 100px;
+	font-family: fantasy;
+	font-size: 15px;
+	color: white;
+	padding-bottom: 350px;
+	padding-right: 300px;
+	cursor: pointer;
+}
+
+#btn_ctangana{
+	background: url("../imgs/ctanga.png") no-repeat;
+	background-size: cover;
+	left: 150px;
+
+
+}
+
+#btn_ybeef{
+	background: url("../imgs/yungbeef.png") no-repeat;
+	background-size: cover;
+	left: 350px;
+}
+#btn_kaseo{
+	background: url("../imgs/kase_o.jpg") no-repeat;
+	background-size: cover;
+	left: 600px;
+}
+
 
 .glassmorfism{
 	height: 200px;
@@ -27,56 +60,6 @@ body
 	backdrop-filter: blur(20px);	
 }
 
-.artistas{
-	display: inline;
-	color: white;
-	font-size: 35px;
-
-}
-#ctangana{
-
-	position: absolute;
-	top: 60%;
-	left: 200px;
-}
-#ybeef{
-
-	position: absolute;
-	top: 60%;
-	left: 45%;
-}
-#kaseo{
-
-	position: absolute;
-	top: 60%;
-	left: 80%;
-
-}
-
-.resize{
-	height: 400px;
-	width: 400px;
-	object-fit: cover;
-	border-radius: 10px;
-	background: rgba(255,255,255,0.30);
-	box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
-	backdrop-filter: blur(4.0px);
-	border: 10px solid transparent;
-	
-}
-
-.kaseo_img{
-	position: relative;
-	left: 30%;
-}
-.ybeef_img{
-	position: relative;
-	left: 17%;
-}
-.ctangana_img{
-	position: relative;
-	left: 5%;
-}
 #ybbody
 {
 	background-image: url("../imgs/plugg2.jpg");
