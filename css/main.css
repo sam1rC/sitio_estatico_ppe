@@ -274,3 +274,11 @@ body
 	color:  white;
 	font-size: 20px;
 }
+#spotify_yungbeef{
+	height: 150px;
+	width: 350px;
+	position: absolute;
+	left: 1300px;
+	border-radius: 20px;
+	top:20px;
+}
